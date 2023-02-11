@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #222831;
+    background-color: #F3EFE0;
+}
+
+.img1{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.img2{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    position: relative;
+    margin: 100px auto 150px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+
+h1{
+    
+    color: #222831;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Londrina Outline', cursive;
+}
+
+h2{
+    color: #66bfbf;
+    font-family: 'Silkscreen', cursive;
+    font-size: 2.5rem;
+    
+}
+
+.mines{
+    color: #222831;
+    
+}
+
+h3{
+    
+    color: #4b9f9f;
+    font-family: 'Koulen', cursive;
+    font-weight: normal;
+}
+
+a{
+    color: #66bfbf;
+    text-decoration: none;
+}
+
+
+.left{
+    position: relative;
+    right: 450px;
+    top: 0px;
+    height: 30px;
+    
+
+}
+
+
+
+.right{
+    position: relative;
+    left: 850px;
+    bottom: 650px;
+    height: 30px;
+
+
+}
+
+.mountain{
+    position: relative;
+    right: 100px;
+    bottom: 120px;
+    height: 700px;
+    
+
+}
+
+
+.top-container{
+    background-color: #66bfbf;
+    position: relative;
+    padding: 100px;
+    height: 700px;
+
+    
+}
+
+.middle-container{
+    margin: 100px auto 0px auto;
+
+}
+
+.bottom-container{
+    position: relative;
+    top: 16px;
+    background-color: #66bfbf;
+    padding: 50px 0 20px 0;
+    
+
+}
+
+.me{
+    
+    height: 250px;
+}
+
+hr{
+    opacity: 50%;
+    color: #434242;
+    border: none;
+    border-top: 5px dotted #393E46;
+    width: 5%;
+    margin: 100px auto 100px auto;
+
+}
+
+.footer-link{
+    
+    margin: 10px 15px 10px 15px;
+    color: #F3EFE0;
+    transition: 0.3s;
+}
+
+.footer-link:hover{
+    
+    color: #222831;
+}
+
+.per{
+    position: relative;
+    top: 20px;
+    color: #F3EFE0;
+    font-size: 14px;
+    font-family: serif;
+    padding: 20px 0;
+    text-decoration: none;
+}
+
+
+.contact-me{
+    margin: 70px;
+}
+
+.btn{
+    padding: 10px;
+    color: #F3EFE0;
+    position: relative;
+    top: 20px;
+    margin: 100px auto 10px auto;
+    background-color: #66bfbf;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.btn:hover{
+    background-color: #57afaf;
+    font-size: 1.1rem;
+    
+}
+
+.contact-msg{
+    margin: 40px auto 40px auto;
+}
+
+.vanga{
+    margin: 30px auto 30px auto;
+}
+
+
+
+
